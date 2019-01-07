@@ -15,6 +15,7 @@ namespace WebApplication2
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            //<zksjfadlkg
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
